@@ -1,0 +1,34 @@
+
+h1 {
+	text-align:center;
+	}
+p{
+	text-align: left;
+}
+.DL{
+	text-align: center;
+}
+.T1{
+	text-align: left;
+	font-size: 20px;
+}
+.content{
+	width: 70%;
+	margin: 0 auto;
+}
+.nd{
+	padding-top: 20px;
+}
+.day{
+	text-align: right;
+	padding-right: 30px;
+}
+.peo{
+	text-align: right;
+	padding-right: 70px;
+}
+#ten{
+	text-align: right;
+	padding-right: 40px;
+
+}
