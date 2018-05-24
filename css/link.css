@@ -1,0 +1,40 @@
+
+* {
+padding: 0;
+margin: 0;
+border: none;
+}
+.menu{
+	width: 80%;
+	height:auto;
+	margin: auto;
+}
+.row{
+	width: 19%;
+	height:200px;
+	display: inline-block;
+	border: 1px solid black;
+}
+img{
+	width: 160px;
+	height: 150px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	padding-top: 20px;
+}
+a:hover{
+	color: blue;
+	cursor: pointer;
+}
+.content{
+	width:100%;
+	height: auto;
+	text-align: center;
+}
+.menu1{
+	width: 80%;
+	height:auto;
+	margin: auto;
+	padding-top: 20px;
+}
